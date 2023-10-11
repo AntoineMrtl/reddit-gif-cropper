@@ -1,0 +1,12 @@
+{
+    "DEPOSIT_FOLDER_ABSOLUTE":"C:\\Users\\antoi\\Desktop\\Input",
+    "OUTPUT_FOLDER_ABSOLUTE":"C:\\Users\\antoi\\Desktop\\Output",
+    "MULTIPLICATION_RATE":1,
+    "TRIGGER_TEST_VERBOSE":true,
+
+    "MAX_CROP_VERTICAL": 0.25,
+    "MAX_CROP_HORIZONTAL": 0.15,
+
+    "LICENSE_ID":"",
+    "LICENSE_KEY":""
+}
